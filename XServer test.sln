@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XServer test", "XServer test\XServer test.csproj", "{803D1D58-B2A9-40CE-A610-C51D46DC7FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803D1D58-B2A9-40CE-A610-C51D46DC7FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803D1D58-B2A9-40CE-A610-C51D46DC7FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803D1D58-B2A9-40CE-A610-C51D46DC7FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803D1D58-B2A9-40CE-A610-C51D46DC7FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C00C05D-2C68-4AA6-A646-327B9A007B9B}
+	EndGlobalSection
+EndGlobal
